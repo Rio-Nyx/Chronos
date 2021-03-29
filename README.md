@@ -1,4 +1,4 @@
-#Chronos - Todo manager
+# Chronos - Todo manager
 
 ### *Chronos is a todo manager written in java using swing framework for GUI.*
 ### Features: 
@@ -9,4 +9,6 @@
 - Search function
 - Date Picker
 
-[](/./Sample/part-1-login.gif)
+![](./Sample/part-1-login.gif)
+
+![](./Sample/part-2-functions.gif)
